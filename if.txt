@@ -1,0 +1,23 @@
+if (nilaiakhir[a]==>>90)
+{
+cout<<endl<<"a+";
+}
+else if (nilaiakhir[a]=>80)
+{
+	cout<<endl<<"a";
+}
+else if (nilaiakhir[a]=>70)
+{
+	cout<<endl<<"b";
+}
+else if (nilaiakhir[a]=>60)
+{
+	cout<<endl<<"c";
+}
+else if (nilaiakhir[a]<60)
+{
+	cout<<endl<<"d";
+}
+}
+	system ("pause");
+	return (0);
